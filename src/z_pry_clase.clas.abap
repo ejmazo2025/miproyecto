@@ -1,21 +1,13 @@
-CLASS z_pry_clase DEFINITION
-  PUBLIC
-  FINAL
-  CREATE PUBLIC .
+class Z_PRY_CLASE definition
+  public
+  create private .
 
-  PUBLIC SECTION.
-  INTERFACES if_oo_adt_classrun.
-  PROTECTED SECTION.
-  PRIVATE SECTION.
+public section.
+protected section.
+private section.
 ENDCLASS.
 
 
 
-CLASS z_pry_clase IMPLEMENTATION.
-
-METHOD if_oo_adt_classrun~main.
-
-
-ENDMETHOD.
-
+CLASS Z_PRY_CLASE IMPLEMENTATION.
 ENDCLASS.
